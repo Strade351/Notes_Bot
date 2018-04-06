@@ -3,6 +3,7 @@ package functional;
 import java.util.Calendar;
 
 public class Note {
+    int id;
     String title;
     String text;
     String date;

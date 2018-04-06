@@ -3,6 +3,7 @@ package functional;
 import java.util.ArrayList;
 
 public class Controller {
+    int id;
     ArrayList<Book> books = new ArrayList<>();
     Book book;
 
